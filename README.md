@@ -1,5 +1,5 @@
 # SomeFreeAPI
-The Digital Image Generator Project is a simple web server that allows users to view artificially generated images and refresh them with the click of a button. This project utilizes the API from https://thispersondoesnotexist.com to fetch images.
+The Digital Image Generator Project is a simple web server that allows users to view artificially generated images and refresh them with the click of a button. This project utilizes the API from Some site like https://thispersondoesnotexist.com to fetch images.
 
 Getting Started
 To use this web server, you will need an environment running Python version 3.x.
